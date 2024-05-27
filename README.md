@@ -7,22 +7,16 @@
 𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
 </p>
 
--------
-
-## ```Connect With Me✝️```
-<p align="center">
-
-<a href="https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=green&link=httpshttps://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk" /><br>
 
 
 ## ```Deadpool Support Group Chats✝️```
 
-- [`1st GC`](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk)
-- [Channel](https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e)
+- [`GROUP`](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk)
+- [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
 
 
 
-# Must fork the repository✝️
+# ```Must fork the repository✝️```
 
 - FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
 
@@ -30,7 +24,7 @@
 
 [Classic Pairing](https://replit.com/@pesguru02/Classic-Pairing)
 
-# DEPLOYMENT✝️
+# ```DEPLOYMENT✝️```
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
@@ -59,8 +53,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Samue-l1/Classic-v3-BUG
-cd Classic-v3-BUG
+git clone https://github.com/Confronter/Deadpool-Md
+cd Deadpool-Md
 yarn install
 npm start
 ```
