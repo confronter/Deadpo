@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Sam</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
 </p>
 
 
@@ -13,9 +13,9 @@
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/Samue-l1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Samue-l1?color=red&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Samue-l1/Classic-v3-BUG?color=blue&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Samue-l1/Classic-v3-BUG?color=red&style=flat-square"></a>
+<a href="https://github.com/Confronter/followers"><img title="Followers" src="https://img.shields.io/github/followers/Confronter?color=red&style=flat-square"></a>
+<a href="https://github.com/Confronter/Deadpool-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Confronter/Deadpool-Md?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Samue-l1/Classic-v3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Samue-l1/Classic-v3-BUG?color=green&style=flat-square"></a>
 <a href="https://github.com/Samue-l1/Classic-v3-BUG/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Samue-l1/Classic-v3-BUG?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Samue-l1/Classic-v3-BUG"><img title="Open Source" src="https://img.shields.io/badge/Author-Classic%20Bot%20Inc.-red?v=103"></a>
 <a href="https://github.com/Samue-l1/Classic-v3-BUG/"><img title="Size" src="https://img.shields.io/github/repo-size/Samue-l1/Classic-v3-BUG?style=flat-square&color=green"></a>
@@ -27,7 +27,7 @@
 
 -------
 
-## ```Connect With Me```
+## ```Connect With Me✝️```
 <p align="center">
 
 <a href="https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=httpshttps://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk" /><br>
