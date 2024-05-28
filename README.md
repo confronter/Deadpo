@@ -1,6 +1,9 @@
 <h1 align="center"> **𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿** <br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg" />
+div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
+  
+  <img src="https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg" />
 </p>
 
 <p align="center">
@@ -11,7 +14,7 @@
 
 ## ```Deadpool Support Group Chats✝️```
 
-- [`GROUP`](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk)
+- [ GROUP ](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk)
 - [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
 
 
@@ -22,7 +25,7 @@
 
 ## `Pair Code For Session`
 
-[Classic Pairing](https://replit.com/@pesguru02/Classic-Pairing)
+[Deadpool Pairing](https://replit.com/@confrontermfisa/Deadpool-pairing?s=app)
 
 # ```DEPLOYMENT✝️```
 ## Heroku Buildpack
