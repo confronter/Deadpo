@@ -1,4 +1,4 @@
-<h1 align="center"> 𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 <br></h1>
+<h1 align="center"> *|𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿|* <br></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
   
